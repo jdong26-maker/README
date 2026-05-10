@@ -11,13 +11,11 @@ This repo is less of a polished product portfolio and more of a running workspac
 - Consumer apps inspired by personal interests
 - Small experiments in vibe coding and rapid prototyping
 
-## Project List
+## Running Project List
 
-| Project | Description | Status |
+| Project | What it does | Status |
 |---|---|---|
-| [Project Name](./) | Brief one-line description of what it does | In progress |
-| [Project Name](./project-folder) | Brief one-line description of what it does | Prototype |
-| [Project Name](./project-folder) | Brief one-line description of what it does | Live |
+| [Qi Daily Harmony](https://qi-daily-harmony.lovable.app) | A small wellness-inspired app exploring daily balance, reflection, and simple rituals through an Eastern-inspired lens. | Live prototype |
 
 ## Notes
 
