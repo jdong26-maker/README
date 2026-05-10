@@ -16,6 +16,7 @@ This repo is less of a polished product portfolio and more of a running workspac
 | Project | What it does | Status |
 |---|---|---|
 | [Qi Daily Harmony](https://qi-daily-harmony.lovable.app) | A small wellness-inspired app exploring daily balance, reflection, and simple rituals through an Eastern-inspired lens. | Live prototype |
+| [Vibe Reel Cinema](https://vibe-reel-cinema.lovable.app) | A visual movie-discovery app that helps users find films based on their mood, taste, and viewing vibe through an interactive, cinema-inspired experience. | Live prototype |
 
 ## Notes
 
